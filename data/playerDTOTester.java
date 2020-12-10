@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 import com.xworkz.data.dto.PlayerDTO;
 
-public class playerDTOTester {
+public class PlayerDTOTester {
 
 	public static void main(String[] args) {
 		
